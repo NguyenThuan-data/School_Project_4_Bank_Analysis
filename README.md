@@ -14,9 +14,9 @@ The project involves exploratory data analysis (EDA), feature selection, and the
 This is a group project, which was completed as part of the **COMP615 - Foundation of Data Science** course at Auckland University of Technology, during 2024.
 The ideas and works were instructed by Teaching Assistant.
 
-**Lecturer** Dr Akbar Ghobakhlou
-**Instructor:** Achmad Pahlevi 
-**Student:** Thuan Nguyen 
+**Lecturer** Dr Akbar Ghobakhlou  
+**Instructor:** Achmad Pahlevi  
+**Student:** Thuan Nguyen  
 
 --- 
 
